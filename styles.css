@@ -10,3 +10,17 @@ h1 {
 img{
     border-radius: 100%;
 }
+
+a {
+    color:black;
+    text-decoration:none;
+    font-weight: 600;
+}
+
+a:hover {
+    color:#31154c;
+}
+
+a:visited {
+    color:pink;
+}
