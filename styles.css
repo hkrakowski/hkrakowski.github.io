@@ -1,9 +1,12 @@
 body {
-    background-color: black;
+    background-color: gray;
     font-family: 'Arsenal', sans-serif;
 }
 h1 {
-    color: blue;
+    color: #493f3c
+;
 }
 
-
+img{
+    border-radius: 100%;
+}
