@@ -24,3 +24,11 @@ a:hover {
 a:visited {
     color:pink;
 }
+
+img[src*="jimmy"] {
+	border-radius: 10%;
+}
+
+img[src*="bcbits"] {
+	border-radius: 10%;
+} 
